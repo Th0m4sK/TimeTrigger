@@ -14,11 +14,6 @@
     "url": "https://github.com/Th0m4sK/TimeTrigger"
   },
   "frameworks": "arduino",
-  "platforms": [
-    "atmelavr",
-    "espressif"
-  ],
-  "export": {
-    "exclude": "*.pdf"
-  }
+  "platforms": "atmelavr,espressif8266,espressif32"
+
 }
