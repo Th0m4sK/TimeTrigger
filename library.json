@@ -1,11 +1,11 @@
 {
   "name": "Time Trigger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": "System",
   "description": "A library for TimeTrigger",
   "authors":
     [{
-      "name": "Th0masK",
+      "name": "Th0m4sK",
       "email": "Thomas@cyber42.de",
       "maintainer": true
     }],
